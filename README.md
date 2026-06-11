@@ -12,9 +12,9 @@ This is not a production system. It is a portfolio project built to demonstrate 
 
 ## Portfolio Assets
 
-* [Portfolio HTML](./portfolio.html)
-* [Portfolio PDF](./portfolio.pdf)
-* [Workflow Diagram](./workflow-diagram.png)
+- [Portfolio HTML](./portfolio.html)
+- [Portfolio PDF](./portfolio.pdf)
+- [Workflow Diagram](./workflow-diagram.png)
 
 ---
 
